@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  background-color: aquamarine;
+}
+
+main {
+  width: 500px;
+  border: 2px solid #116ebf;
+  text-align: center;
+}
+header {
+  background: url("https://1.bp.blogspot.com/-8Opg1d6SYh8/YTYHDofgdqI/AAAAAAAABY8/WzgNgoxoN3En3HPhBVyfz7mnZw_ufnFLQCLcBGAsYHQ/s1536/Anime%2BKimetsu%2Bno%2BYaiba%2BConfirma%2Bdata%2Bde%2Bestreia%2Bda%2Bsua%2BSegunda%2BTemporada%2BMANUAL%2BDO%2BOTAKU.webp");
+  background-size: cover;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
+a{ 
+    text-decoration: none;
+    font-size: 30px;
+    color:black
+}
+
+a:hover{
+    color:aquamarine
+}
